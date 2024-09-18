@@ -13,7 +13,7 @@
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about: How I can find solutions to your problems.
 
-- 📫 How to reach me: corylthacker@icloud.com
+- 📫 How to reach me: corylthacker@outlook.com
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I could go golfing every day and be perfectly content.
 
